@@ -1,0 +1,5300 @@
+fileFormatVersion: 2
+guid: 4ea74a5690b755f4db5ff13039575029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1450449012028094908
+    second: Boss_Samurai_MeleeAttack_0
+  - first:
+      213: -5369852743285074625
+    second: Boss_Samurai_MeleeAttack_1
+  - first:
+      213: -3063505203373855348
+    second: Boss_Samurai_MeleeAttack_2
+  - first:
+      213: 3917030850569966288
+    second: Boss_Samurai_MeleeAttack_3
+  - first:
+      213: 4523819009380815730
+    second: Boss_Samurai_MeleeAttack_4
+  - first:
+      213: 3054649598721176013
+    second: Boss_Samurai_MeleeAttack_5
+  - first:
+      213: 194436924595637397
+    second: Boss_Samurai_MeleeAttack_6
+  - first:
+      213: -2542576907997747450
+    second: Boss_Samurai_MeleeAttack_7
+  - first:
+      213: -907995929216714214
+    second: Boss_Samurai_MeleeAttack_8
+  - first:
+      213: -1246252468140923545
+    second: Boss_Samurai_MeleeAttack_9
+  - first:
+      213: -7726560764402344681
+    second: Boss_Samurai_MeleeAttack_10
+  - first:
+      213: 3837687870833444163
+    second: Boss_Samurai_MeleeAttack_11
+  - first:
+      213: -3784057842701822782
+    second: Boss_Samurai_MeleeAttack_12
+  - first:
+      213: 17851365328359552
+    second: Boss_Samurai_MeleeAttack_13
+  - first:
+      213: -4613958253946391765
+    second: Boss_Samurai_MeleeAttack_14
+  - first:
+      213: -3368320863368539311
+    second: Boss_Samurai_MeleeAttack_15
+  - first:
+      213: 4667548567928774049
+    second: Boss_Samurai_MeleeAttack_16
+  - first:
+      213: 6021845829512544055
+    second: Boss_Samurai_MeleeAttack_17
+  - first:
+      213: -7478764980883952690
+    second: Boss_Samurai_MeleeAttack_18
+  - first:
+      213: -1445348748111954616
+    second: Boss_Samurai_MeleeAttack_19
+  - first:
+      213: -1499954658631260840
+    second: Boss_Samurai_MeleeAttack_20
+  - first:
+      213: 2892070529270949656
+    second: Boss_Samurai_MeleeAttack_21
+  - first:
+      213: 1465452480329644196
+    second: Boss_Samurai_MeleeAttack_22
+  - first:
+      213: 2956159815819543405
+    second: Boss_Samurai_MeleeAttack_23
+  - first:
+      213: -3675706624126594380
+    second: Boss_Samurai_MeleeAttack_24
+  - first:
+      213: 7584577139843905772
+    second: Boss_Samurai_MeleeAttack_25
+  - first:
+      213: 3663822454690070414
+    second: Boss_Samurai_MeleeAttack_26
+  - first:
+      213: 2567885718458379163
+    second: Boss_Samurai_MeleeAttack_27
+  - first:
+      213: -1546574615692275727
+    second: Boss_Samurai_MeleeAttack_28
+  - first:
+      213: -6222509510352917369
+    second: Boss_Samurai_MeleeAttack_29
+  - first:
+      213: -425879303879204558
+    second: Boss_Samurai_MeleeAttack_30
+  - first:
+      213: -7530797225710806253
+    second: Boss_Samurai_MeleeAttack_31
+  - first:
+      213: -5665065682584722546
+    second: Boss_Samurai_MeleeAttack_32
+  - first:
+      213: -8415818802561743318
+    second: Boss_Samurai_MeleeAttack_33
+  - first:
+      213: -6800295017385212097
+    second: Boss_Samurai_MeleeAttack_34
+  - first:
+      213: 7492134066804751468
+    second: Boss_Samurai_MeleeAttack_35
+  - first:
+      213: 2228327345207891813
+    second: Boss_Samurai_MeleeAttack_36
+  - first:
+      213: 1594192589954825215
+    second: Boss_Samurai_MeleeAttack_37
+  - first:
+      213: -8041788206207177291
+    second: Boss_Samurai_MeleeAttack_38
+  - first:
+      213: -5195526121690160284
+    second: Boss_Samurai_MeleeAttack_39
+  - first:
+      213: 8457722429251396667
+    second: Boss_Samurai_MeleeAttack_40
+  - first:
+      213: 3008888490687878207
+    second: Boss_Samurai_MeleeAttack_41
+  - first:
+      213: -4767107044693412965
+    second: Boss_Samurai_MeleeAttack_42
+  - first:
+      213: 6156384807926890542
+    second: Boss_Samurai_MeleeAttack_43
+  - first:
+      213: 8551514286624816676
+    second: Boss_Samurai_MeleeAttack_44
+  - first:
+      213: 1762031220088265888
+    second: Boss_Samurai_MeleeAttack_45
+  - first:
+      213: 5813741208123838074
+    second: Boss_Samurai_MeleeAttack_46
+  - first:
+      213: 5414077193437599640
+    second: Boss_Samurai_MeleeAttack_47
+  - first:
+      213: -5497405894762103642
+    second: Boss_Samurai_MeleeAttack_48
+  - first:
+      213: 3748347488802838079
+    second: Boss_Samurai_MeleeAttack_49
+  - first:
+      213: -3377209530800173141
+    second: Boss_Samurai_MeleeAttack_50
+  - first:
+      213: -1269195631653288990
+    second: Boss_Samurai_MeleeAttack_51
+  - first:
+      213: 5357638843153242719
+    second: Boss_Samurai_MeleeAttack_52
+  - first:
+      213: -7098377033807456112
+    second: Boss_Samurai_MeleeAttack_53
+  - first:
+      213: 7287982599412556625
+    second: Boss_Samurai_MeleeAttack_54
+  - first:
+      213: 6443336741048338919
+    second: Boss_Samurai_MeleeAttack_55
+  - first:
+      213: 7850877412275858426
+    second: Boss_Samurai_MeleeAttack_56
+  - first:
+      213: 4270291774831938452
+    second: Boss_Samurai_MeleeAttack_57
+  - first:
+      213: -9115698934483261339
+    second: Boss_Samurai_MeleeAttack_58
+  - first:
+      213: 667480049328774354
+    second: Boss_Samurai_MeleeAttack_59
+  - first:
+      213: -2952148421946242888
+    second: Boss_Samurai_MeleeAttack_60
+  - first:
+      213: -4922036725366544163
+    second: Boss_Samurai_MeleeAttack_61
+  - first:
+      213: -7442369883364765977
+    second: Boss_Samurai_MeleeAttack_62
+  - first:
+      213: 9160612866259516482
+    second: Boss_Samurai_MeleeAttack_63
+  - first:
+      213: -6029163118045688802
+    second: Boss_Samurai_MeleeAttack_64
+  - first:
+      213: 9011475519621907022
+    second: Boss_Samurai_MeleeAttack_65
+  - first:
+      213: 6781107928593660210
+    second: Boss_Samurai_MeleeAttack_66
+  - first:
+      213: 2345758287123932066
+    second: Boss_Samurai_MeleeAttack_67
+  - first:
+      213: 4036144215940054962
+    second: Boss_Samurai_MeleeAttack_68
+  - first:
+      213: -7120837598905069042
+    second: Boss_Samurai_MeleeAttack_69
+  - first:
+      213: 7354331662634960570
+    second: Boss_Samurai_MeleeAttack_70
+  - first:
+      213: -6168734947884448711
+    second: Boss_Samurai_MeleeAttack_71
+  - first:
+      213: -8324369606106394670
+    second: Boss_Samurai_MeleeAttack_72
+  - first:
+      213: -2478370572726597296
+    second: Boss_Samurai_MeleeAttack_73
+  - first:
+      213: 1916148014444664686
+    second: Boss_Samurai_MeleeAttack_74
+  - first:
+      213: 721941977115071774
+    second: Boss_Samurai_MeleeAttack_75
+  - first:
+      213: -8871246090177102981
+    second: Boss_Samurai_MeleeAttack_76
+  - first:
+      213: 1963384677943453796
+    second: Boss_Samurai_MeleeAttack_77
+  - first:
+      213: -8735517407003473469
+    second: Boss_Samurai_MeleeAttack_78
+  - first:
+      213: 3140352480657806304
+    second: Boss_Samurai_MeleeAttack_79
+  - first:
+      213: -5020949208339354754
+    second: Boss_Samurai_MeleeAttack_80
+  - first:
+      213: -7139993361869454345
+    second: Boss_Samurai_MeleeAttack_81
+  - first:
+      213: 2438964058199312460
+    second: Boss_Samurai_MeleeAttack_82
+  - first:
+      213: 1591498076728135713
+    second: Boss_Samurai_MeleeAttack_83
+  - first:
+      213: -2725575165644201302
+    second: Boss_Samurai_MeleeAttack_84
+  - first:
+      213: 7271358726314235994
+    second: Boss_Samurai_MeleeAttack_85
+  - first:
+      213: 6515245325383966841
+    second: Boss_Samurai_MeleeAttack_86
+  - first:
+      213: -4484132168594947289
+    second: Boss_Samurai_MeleeAttack_87
+  - first:
+      213: 744307719670745141
+    second: Boss_Samurai_MeleeAttack_88
+  - first:
+      213: 1875427087732132865
+    second: Boss_Samurai_MeleeAttack_89
+  - first:
+      213: -2559632733825248652
+    second: Boss_Samurai_MeleeAttack_90
+  - first:
+      213: 3627283391771347988
+    second: Boss_Samurai_MeleeAttack_91
+  - first:
+      213: 4655576748119690737
+    second: Boss_Samurai_MeleeAttack_92
+  - first:
+      213: -4131236994942673773
+    second: Boss_Samurai_MeleeAttack_93
+  - first:
+      213: 3028116019124122111
+    second: Boss_Samurai_MeleeAttack_94
+  - first:
+      213: 5887255772602467566
+    second: Boss_Samurai_MeleeAttack_95
+  - first:
+      213: -6106804180395143221
+    second: Boss_Samurai_MeleeAttack_96
+  - first:
+      213: 1748839689195959278
+    second: Boss_Samurai_MeleeAttack_97
+  - first:
+      213: -7098967413787949857
+    second: Boss_Samurai_MeleeAttack_98
+  - first:
+      213: -3099181407054546017
+    second: Boss_Samurai_MeleeAttack_99
+  - first:
+      213: 2348728397081751073
+    second: Boss_Samurai_MeleeAttack_100
+  - first:
+      213: -7379879391273999529
+    second: Boss_Samurai_MeleeAttack_101
+  - first:
+      213: -2246280849910776005
+    second: Boss_Samurai_MeleeAttack_102
+  - first:
+      213: 7944819113644873124
+    second: Boss_Samurai_MeleeAttack_103
+  - first:
+      213: 3887939862256318098
+    second: Boss_Samurai_MeleeAttack_104
+  - first:
+      213: 7934331997388074230
+    second: Boss_Samurai_MeleeAttack_105
+  - first:
+      213: 957466361008737582
+    second: Boss_Samurai_MeleeAttack_106
+  - first:
+      213: -1646165783819805870
+    second: Boss_Samurai_MeleeAttack_107
+  - first:
+      213: 2257465384999480238
+    second: Boss_Samurai_MeleeAttack_108
+  - first:
+      213: -1129564923421565835
+    second: Boss_Samurai_MeleeAttack_109
+  - first:
+      213: 2337867912416323931
+    second: Boss_Samurai_MeleeAttack_110
+  - first:
+      213: 2582730886780535187
+    second: Boss_Samurai_MeleeAttack_111
+  - first:
+      213: 1317775804417791819
+    second: Boss_Samurai_MeleeAttack_112
+  - first:
+      213: 5128781773922745509
+    second: Boss_Samurai_MeleeAttack_113
+  - first:
+      213: 2362069111902570836
+    second: Boss_Samurai_MeleeAttack_114
+  - first:
+      213: -3955544603383570966
+    second: Boss_Samurai_MeleeAttack_115
+  - first:
+      213: -8927842976268629483
+    second: Boss_Samurai_MeleeAttack_116
+  - first:
+      213: -7607523592072428808
+    second: Boss_Samurai_MeleeAttack_117
+  - first:
+      213: 4642471842088977279
+    second: Boss_Samurai_MeleeAttack_118
+  - first:
+      213: 2115504931337811373
+    second: Boss_Samurai_MeleeAttack_119
+  - first:
+      213: -3784598847583361657
+    second: Boss_Samurai_MeleeAttack_120
+  - first:
+      213: -2514554578785444644
+    second: Boss_Samurai_MeleeAttack_121
+  - first:
+      213: -4990811339092407057
+    second: Boss_Samurai_MeleeAttack_122
+  - first:
+      213: -1749137035293008898
+    second: Boss_Samurai_MeleeAttack_123
+  - first:
+      213: 8742526551652044039
+    second: Boss_Samurai_MeleeAttack_124
+  - first:
+      213: -8630030565030308053
+    second: Boss_Samurai_MeleeAttack_125
+  - first:
+      213: 4576868903448499760
+    second: Boss_Samurai_MeleeAttack_126
+  - first:
+      213: -2388174979154672747
+    second: Boss_Samurai_MeleeAttack_127
+  - first:
+      213: 6503180274150902902
+    second: Boss_Samurai_MeleeAttack_128
+  - first:
+      213: 9168368588727323407
+    second: Boss_Samurai_MeleeAttack_129
+  - first:
+      213: -921322826907280392
+    second: Boss_Samurai_MeleeAttack_130
+  - first:
+      213: -5278199643764597162
+    second: Boss_Samurai_MeleeAttack_131
+  - first:
+      213: 6738594115746338198
+    second: Boss_Samurai_MeleeAttack_132
+  - first:
+      213: -8308490772272605952
+    second: Boss_Samurai_MeleeAttack_133
+  - first:
+      213: 8233569863655758566
+    second: Boss_Samurai_MeleeAttack_134
+  - first:
+      213: -7770496284841766515
+    second: Boss_Samurai_MeleeAttack_135
+  - first:
+      213: 8598468193081553904
+    second: Boss_Samurai_MeleeAttack_136
+  - first:
+      213: -3413492479757915139
+    second: Boss_Samurai_MeleeAttack_137
+  - first:
+      213: -5845442755134599975
+    second: Boss_Samurai_MeleeAttack_138
+  - first:
+      213: -5793533764889965299
+    second: Boss_Samurai_MeleeAttack_139
+  - first:
+      213: 681727688384830262
+    second: Boss_Samurai_MeleeAttack_140
+  - first:
+      213: -113903135596171216
+    second: Boss_Samurai_MeleeAttack_141
+  - first:
+      213: 1255327268915981081
+    second: Boss_Samurai_MeleeAttack_142
+  - first:
+      213: 6816597196177820450
+    second: Boss_Samurai_MeleeAttack_143
+  - first:
+      213: -4108562349825192723
+    second: Boss_Samurai_MeleeAttack_144
+  - first:
+      213: 4338630008314158699
+    second: Boss_Samurai_MeleeAttack_145
+  - first:
+      213: 6977747276945929514
+    second: Boss_Samurai_MeleeAttack_146
+  - first:
+      213: -5957808506094886726
+    second: Boss_Samurai_MeleeAttack_147
+  - first:
+      213: 6508403535336465044
+    second: Boss_Samurai_MeleeAttack_148
+  - first:
+      213: 1200672332038331413
+    second: Boss_Samurai_MeleeAttack_149
+  - first:
+      213: -3205445107065883880
+    second: Boss_Samurai_MeleeAttack_150
+  - first:
+      213: -5789733246450471119
+    second: Boss_Samurai_MeleeAttack_151
+  - first:
+      213: 3110351061079780654
+    second: Boss_Samurai_MeleeAttack_152
+  - first:
+      213: 1491691814532318227
+    second: Boss_Samurai_MeleeAttack_153
+  - first:
+      213: -8242874049459699193
+    second: Boss_Samurai_MeleeAttack_154
+  - first:
+      213: -8587880843558426449
+    second: Boss_Samurai_MeleeAttack_155
+  - first:
+      213: 7734550363767759209
+    second: Boss_Samurai_MeleeAttack_156
+  - first:
+      213: 2564742267242747797
+    second: Boss_Samurai_MeleeAttack_157
+  - first:
+      213: 5456023155379089185
+    second: Boss_Samurai_MeleeAttack_158
+  - first:
+      213: -5401803027170634786
+    second: Boss_Samurai_MeleeAttack_159
+  - first:
+      213: -1766695023684557307
+    second: Boss_Samurai_MeleeAttack_160
+  - first:
+      213: 3002788885306971958
+    second: Boss_Samurai_MeleeAttack_161
+  - first:
+      213: -2036071723921704041
+    second: Boss_Samurai_MeleeAttack_162
+  - first:
+      213: -7131980609134334488
+    second: Boss_Samurai_MeleeAttack_163
+  - first:
+      213: 4866007732708446038
+    second: Boss_Samurai_MeleeAttack_164
+  - first:
+      213: 5473434067413854794
+    second: Boss_Samurai_MeleeAttack_165
+  - first:
+      213: 2216161513836766808
+    second: Boss_Samurai_MeleeAttack_166
+  - first:
+      213: 1908714657526107250
+    second: Boss_Samurai_MeleeAttack_167
+  - first:
+      213: -2677390385813840635
+    second: Boss_Samurai_MeleeAttack_168
+  - first:
+      213: -6426384616328962558
+    second: Boss_Samurai_MeleeAttack_169
+  - first:
+      213: -2192195391975018479
+    second: Boss_Samurai_MeleeAttack_170
+  - first:
+      213: 7222342106300375348
+    second: Boss_Samurai_MeleeAttack_171
+  - first:
+      213: -6207254393103050031
+    second: Boss_Samurai_MeleeAttack_172
+  - first:
+      213: 5758928733288851062
+    second: Boss_Samurai_MeleeAttack_173
+  - first:
+      213: -1327356116257941024
+    second: Boss_Samurai_MeleeAttack_174
+  - first:
+      213: 7865236331949824181
+    second: Boss_Samurai_MeleeAttack_175
+  - first:
+      213: -8082378777498585333
+    second: Boss_Samurai_MeleeAttack_176
+  - first:
+      213: 2856158262547801835
+    second: Boss_Samurai_MeleeAttack_177
+  - first:
+      213: 3619888035437138427
+    second: Boss_Samurai_MeleeAttack_178
+  - first:
+      213: -2144205783294342266
+    second: Boss_Samurai_MeleeAttack_179
+  - first:
+      213: 7499301042271083994
+    second: Boss_Samurai_MeleeAttack_180
+  - first:
+      213: -7769679347141878757
+    second: Boss_Samurai_MeleeAttack_181
+  - first:
+      213: 5822848156390331257
+    second: Boss_Samurai_MeleeAttack_182
+  - first:
+      213: -7381220362532533728
+    second: Boss_Samurai_MeleeAttack_183
+  - first:
+      213: -7232346496130804489
+    second: Boss_Samurai_MeleeAttack_184
+  - first:
+      213: 2302055591634005331
+    second: Boss_Samurai_MeleeAttack_185
+  - first:
+      213: -4282149896653918810
+    second: Boss_Samurai_MeleeAttack_186
+  - first:
+      213: -7489399155776877448
+    second: Boss_Samurai_MeleeAttack_187
+  - first:
+      213: -482012338826537822
+    second: Boss_Samurai_MeleeAttack_188
+  - first:
+      213: -5387053348593439460
+    second: Boss_Samurai_MeleeAttack_189
+  - first:
+      213: 2296862497337280340
+    second: Boss_Samurai_MeleeAttack_190
+  - first:
+      213: 4870878636481617508
+    second: Boss_Samurai_MeleeAttack_191
+  - first:
+      213: -5434079572155282122
+    second: Boss_Samurai_MeleeAttack_0
+  - first:
+      213: -1762570668665631804
+    second: Boss_Samurai_MeleeAttack_1
+  - first:
+      213: 7832105426653741703
+    second: Boss_Samurai_MeleeAttack_2
+  - first:
+      213: 6141750675878602255
+    second: Boss_Samurai_MeleeAttack_3
+  - first:
+      213: -4498512492432742142
+    second: Boss_Samurai_MeleeAttack_4
+  - first:
+      213: 6751165679988440853
+    second: Boss_Samurai_MeleeAttack_5
+  - first:
+      213: 7809657349878601775
+    second: Boss_Samurai_MeleeAttack_6
+  - first:
+      213: 2682182741404937310
+    second: Boss_Samurai_MeleeAttack_7
+  - first:
+      213: -387842082369758839
+    second: Boss_Samurai_MeleeAttack_8
+  - first:
+      213: 8927918268218806697
+    second: Boss_Samurai_MeleeAttack_9
+  - first:
+      213: -7348953010388387973
+    second: Boss_Samurai_MeleeAttack_10
+  - first:
+      213: -155328563377842931
+    second: Boss_Samurai_MeleeAttack_11
+  - first:
+      213: 8535273870962366863
+    second: Boss_Samurai_MeleeAttack_12
+  - first:
+      213: -6923419528216401746
+    second: Boss_Samurai_MeleeAttack_13
+  - first:
+      213: 2014062819639189246
+    second: Boss_Samurai_MeleeAttack_14
+  - first:
+      213: -1042262511401104994
+    second: Boss_Samurai_MeleeAttack_15
+  - first:
+      213: -4809729677244023719
+    second: Boss_Samurai_MeleeAttack_16
+  - first:
+      213: 4526630075884994232
+    second: Boss_Samurai_MeleeAttack_17
+  - first:
+      213: 8426531963496931199
+    second: Boss_Samurai_MeleeAttack_18
+  - first:
+      213: -7220478436806168186
+    second: Boss_Samurai_MeleeAttack_19
+  - first:
+      213: 5814356891741326816
+    second: Boss_Samurai_MeleeAttack_20
+  - first:
+      213: -225118009866857006
+    second: Boss_Samurai_MeleeAttack_21
+  - first:
+      213: 1994446675060342982
+    second: Boss_Samurai_MeleeAttack_22
+  - first:
+      213: 70279804924162743
+    second: Boss_Samurai_MeleeAttack_23
+  - first:
+      213: -1436179929596330929
+    second: Boss_Samurai_MeleeAttack_24
+  - first:
+      213: -8169767682096385404
+    second: Boss_Samurai_MeleeAttack_25
+  - first:
+      213: 2797964550009760717
+    second: Boss_Samurai_MeleeAttack_26
+  - first:
+      213: -8636400254418368935
+    second: Boss_Samurai_MeleeAttack_27
+  - first:
+      213: 7809727309736327424
+    second: Boss_Samurai_MeleeAttack_28
+  - first:
+      213: -6085943729676856468
+    second: Boss_Samurai_MeleeAttack_29
+  - first:
+      213: -1753878993652083240
+    second: Boss_Samurai_MeleeAttack_30
+  - first:
+      213: 7601220731704380009
+    second: Boss_Samurai_MeleeAttack_31
+  - first:
+      213: 7217969613645126119
+    second: Boss_Samurai_MeleeAttack_32
+  - first:
+      213: -1999443788415145555
+    second: Boss_Samurai_MeleeAttack_33
+  - first:
+      213: -7344285790039635670
+    second: Boss_Samurai_MeleeAttack_34
+  - first:
+      213: 6254702815129037136
+    second: Boss_Samurai_MeleeAttack_35
+  - first:
+      213: 7611458424621405848
+    second: Boss_Samurai_MeleeAttack_36
+  - first:
+      213: 2883964811337163474
+    second: Boss_Samurai_MeleeAttack_37
+  - first:
+      213: 3795945699076015930
+    second: Boss_Samurai_MeleeAttack_38
+  - first:
+      213: 7067253462456076064
+    second: Boss_Samurai_MeleeAttack_39
+  - first:
+      213: 1831382332319849440
+    second: Boss_Samurai_MeleeAttack_40
+  - first:
+      213: -7332100051728806090
+    second: Boss_Samurai_MeleeAttack_41
+  - first:
+      213: -5049441827760804657
+    second: Boss_Samurai_MeleeAttack_42
+  - first:
+      213: 6439954452952461972
+    second: Boss_Samurai_MeleeAttack_43
+  - first:
+      213: -6173676375400112643
+    second: Boss_Samurai_MeleeAttack_44
+  - first:
+      213: -1208536128838785257
+    second: Boss_Samurai_MeleeAttack_45
+  - first:
+      213: 3823749967666236189
+    second: Boss_Samurai_MeleeAttack_46
+  - first:
+      213: 6904383419311942895
+    second: Boss_Samurai_MeleeAttack_47
+  - first:
+      213: -2803767208563981024
+    second: Boss_Samurai_MeleeAttack_48
+  - first:
+      213: 2452469704125704656
+    second: Boss_Samurai_MeleeAttack_49
+  - first:
+      213: 7677974249183905925
+    second: Boss_Samurai_MeleeAttack_50
+  - first:
+      213: 2118559873408898910
+    second: Boss_Samurai_MeleeAttack_51
+  - first:
+      213: 1367467650920727217
+    second: Boss_Samurai_MeleeAttack_52
+  - first:
+      213: -2014653119490202782
+    second: Boss_Samurai_MeleeAttack_53
+  - first:
+      213: -1714531311370233900
+    second: Boss_Samurai_MeleeAttack_54
+  - first:
+      213: 903021968303717672
+    second: Boss_Samurai_MeleeAttack_55
+  - first:
+      213: -367797373684055916
+    second: Boss_Samurai_MeleeAttack_56
+  - first:
+      213: -7889220415231036309
+    second: Boss_Samurai_MeleeAttack_57
+  - first:
+      213: 8697943461742241630
+    second: Boss_Samurai_MeleeAttack_58
+  - first:
+      213: -1599016186079028447
+    second: Boss_Samurai_MeleeAttack_59
+  - first:
+      213: 1741559613171878633
+    second: Boss_Samurai_MeleeAttack_60
+  - first:
+      213: 273292286361804338
+    second: Boss_Samurai_MeleeAttack_61
+  - first:
+      213: 7657962415191540805
+    second: Boss_Samurai_MeleeAttack_62
+  - first:
+      213: -1958254849791295928
+    second: Boss_Samurai_MeleeAttack_63
+  - first:
+      213: -4098557409862285465
+    second: Boss_Samurai_MeleeAttack_64
+  - first:
+      213: -6458033306331195774
+    second: Boss_Samurai_MeleeAttack_65
+  - first:
+      213: 178261530640062562
+    second: Boss_Samurai_MeleeAttack_66
+  - first:
+      213: -3081732918443502880
+    second: Boss_Samurai_MeleeAttack_67
+  - first:
+      213: 4862874899699793016
+    second: Boss_Samurai_MeleeAttack_68
+  - first:
+      213: 2827477713177437900
+    second: Boss_Samurai_MeleeAttack_69
+  - first:
+      213: -1570617472731739792
+    second: Boss_Samurai_MeleeAttack_70
+  - first:
+      213: -1573797855700283369
+    second: Boss_Samurai_MeleeAttack_71
+  - first:
+      213: -2212310355173069736
+    second: Boss_Samurai_MeleeAttack_72
+  - first:
+      213: 8829473123540478836
+    second: Boss_Samurai_MeleeAttack_73
+  - first:
+      213: -7244527283743635786
+    second: Boss_Samurai_MeleeAttack_74
+  - first:
+      213: 579514915420317743
+    second: Boss_Samurai_MeleeAttack_75
+  - first:
+      213: -443860721783870687
+    second: Boss_Samurai_MeleeAttack_76
+  - first:
+      213: -8909655028363914967
+    second: Boss_Samurai_MeleeAttack_77
+  - first:
+      213: 4083505127792762743
+    second: Boss_Samurai_MeleeAttack_78
+  - first:
+      213: 1125911792328935340
+    second: Boss_Samurai_MeleeAttack_79
+  - first:
+      213: 7378912237368122489
+    second: Boss_Samurai_MeleeAttack_80
+  - first:
+      213: 387352398128967145
+    second: Boss_Samurai_MeleeAttack_81
+  - first:
+      213: -7667488777354997360
+    second: Boss_Samurai_MeleeAttack_82
+  - first:
+      213: -8116374221952920574
+    second: Boss_Samurai_MeleeAttack_83
+  - first:
+      213: -6591499114513450403
+    second: Boss_Samurai_MeleeAttack_84
+  - first:
+      213: 5129674332947481013
+    second: Boss_Samurai_MeleeAttack_85
+  - first:
+      213: -7330384262568280380
+    second: Boss_Samurai_MeleeAttack_86
+  - first:
+      213: -8343410244668259343
+    second: Boss_Samurai_MeleeAttack_87
+  - first:
+      213: -3752341664087425933
+    second: Boss_Samurai_MeleeAttack_88
+  - first:
+      213: -5313412542194516745
+    second: Boss_Samurai_MeleeAttack_89
+  - first:
+      213: 973209962529535321
+    second: Boss_Samurai_MeleeAttack_90
+  - first:
+      213: 8965528942856058834
+    second: Boss_Samurai_MeleeAttack_91
+  - first:
+      213: -8962219652450276224
+    second: Boss_Samurai_MeleeAttack_92
+  - first:
+      213: -9124687261898708526
+    second: Boss_Samurai_MeleeAttack_93
+  - first:
+      213: 1120413961527222589
+    second: Boss_Samurai_MeleeAttack_94
+  - first:
+      213: -4403321567399046530
+    second: Boss_Samurai_MeleeAttack_95
+  - first:
+      213: -2172769433757750097
+    second: Boss_Samurai_MeleeAttack_96
+  - first:
+      213: 104476757742737968
+    second: Boss_Samurai_MeleeAttack_97
+  - first:
+      213: -442907539642626263
+    second: Boss_Samurai_MeleeAttack_98
+  - first:
+      213: 1121161302609476329
+    second: Boss_Samurai_MeleeAttack_99
+  - first:
+      213: -5329192705855960678
+    second: Boss_Samurai_MeleeAttack_100
+  - first:
+      213: 7366869732944033035
+    second: Boss_Samurai_MeleeAttack_101
+  - first:
+      213: 4241775549249102103
+    second: Boss_Samurai_MeleeAttack_102
+  - first:
+      213: -2835848382427207516
+    second: Boss_Samurai_MeleeAttack_103
+  - first:
+      213: 8780761965278162221
+    second: Boss_Samurai_MeleeAttack_104
+  - first:
+      213: -2877616878838085052
+    second: Boss_Samurai_MeleeAttack_105
+  - first:
+      213: 7641659270838059633
+    second: Boss_Samurai_MeleeAttack_106
+  - first:
+      213: 8439035126957904415
+    second: Boss_Samurai_MeleeAttack_107
+  - first:
+      213: -2962264526603506423
+    second: Boss_Samurai_MeleeAttack_108
+  - first:
+      213: -8636067071078122359
+    second: Boss_Samurai_MeleeAttack_109
+  - first:
+      213: 2993141674404581144
+    second: Boss_Samurai_MeleeAttack_110
+  - first:
+      213: 4449660164229950647
+    second: Boss_Samurai_MeleeAttack_111
+  - first:
+      213: 6214750901771479286
+    second: Boss_Samurai_MeleeAttack_112
+  - first:
+      213: -5195413467669578
+    second: Boss_Samurai_MeleeAttack_113
+  - first:
+      213: 7756139186397168321
+    second: Boss_Samurai_MeleeAttack_114
+  - first:
+      213: -2532931923456229974
+    second: Boss_Samurai_MeleeAttack_115
+  - first:
+      213: -5075207323301297967
+    second: Boss_Samurai_MeleeAttack_116
+  - first:
+      213: 3802441718187092292
+    second: Boss_Samurai_MeleeAttack_117
+  - first:
+      213: 5369984389183820226
+    second: Boss_Samurai_MeleeAttack_118
+  - first:
+      213: -7087339774450398534
+    second: Boss_Samurai_MeleeAttack_119
+  - first:
+      213: 8167843158031144232
+    second: Boss_Samurai_MeleeAttack_120
+  - first:
+      213: -3366075337761282793
+    second: Boss_Samurai_MeleeAttack_121
+  - first:
+      213: 4885876617744329148
+    second: Boss_Samurai_MeleeAttack_122
+  - first:
+      213: -486509474737748440
+    second: Boss_Samurai_MeleeAttack_123
+  - first:
+      213: 7017078164607279047
+    second: Boss_Samurai_MeleeAttack_124
+  - first:
+      213: 2729780427132039189
+    second: Boss_Samurai_MeleeAttack_125
+  - first:
+      213: 1976823435197826243
+    second: Boss_Samurai_MeleeAttack_126
+  - first:
+      213: 2505697401160707774
+    second: Boss_Samurai_MeleeAttack_127
+  - first:
+      213: 4134744265609507715
+    second: Boss_Samurai_MeleeAttack_128
+  - first:
+      213: 5009481483351711540
+    second: Boss_Samurai_MeleeAttack_129
+  - first:
+      213: 4434976016951504123
+    second: Boss_Samurai_MeleeAttack_130
+  - first:
+      213: -84901623350712238
+    second: Boss_Samurai_MeleeAttack_131
+  - first:
+      213: -8731639718398258927
+    second: Boss_Samurai_MeleeAttack_132
+  - first:
+      213: 4445482179304738221
+    second: Boss_Samurai_MeleeAttack_133
+  - first:
+      213: 1925566084643407890
+    second: Boss_Samurai_MeleeAttack_134
+  - first:
+      213: 1555502333265649883
+    second: Boss_Samurai_MeleeAttack_135
+  - first:
+      213: 7709332600585897870
+    second: Boss_Samurai_MeleeAttack_136
+  - first:
+      213: 1752645435633890934
+    second: Boss_Samurai_MeleeAttack_137
+  - first:
+      213: 44997991461789071
+    second: Boss_Samurai_MeleeAttack_138
+  - first:
+      213: -4674012979088642142
+    second: Boss_Samurai_MeleeAttack_139
+  - first:
+      213: 8531184488747945281
+    second: Boss_Samurai_MeleeAttack_140
+  - first:
+      213: 4174145956855305828
+    second: Boss_Samurai_MeleeAttack_141
+  - first:
+      213: -7443579343277779746
+    second: Boss_Samurai_MeleeAttack_142
+  - first:
+      213: -7134494352694990437
+    second: Boss_Samurai_MeleeAttack_143
+  - first:
+      213: -1567145751418706348
+    second: Boss_Samurai_MeleeAttack_144
+  - first:
+      213: -8355044809636452216
+    second: Boss_Samurai_MeleeAttack_145
+  - first:
+      213: 7065972166781263563
+    second: Boss_Samurai_MeleeAttack_146
+  - first:
+      213: -6077190384758393019
+    second: Boss_Samurai_MeleeAttack_147
+  - first:
+      213: 447740396868441368
+    second: Boss_Samurai_MeleeAttack_148
+  - first:
+      213: -7912976044497987230
+    second: Boss_Samurai_MeleeAttack_149
+  - first:
+      213: -2707231412491710762
+    second: Boss_Samurai_MeleeAttack_150
+  - first:
+      213: 2384913536651495925
+    second: Boss_Samurai_MeleeAttack_151
+  - first:
+      213: 7873188297278996883
+    second: Boss_Samurai_MeleeAttack_152
+  - first:
+      213: 8782483561066687960
+    second: Boss_Samurai_MeleeAttack_153
+  - first:
+      213: 7687960856687094312
+    second: Boss_Samurai_MeleeAttack_154
+  - first:
+      213: -4914511550360845934
+    second: Boss_Samurai_MeleeAttack_155
+  - first:
+      213: 3494845969163110221
+    second: Boss_Samurai_MeleeAttack_156
+  - first:
+      213: -1660852041889707051
+    second: Boss_Samurai_MeleeAttack_157
+  - first:
+      213: -7882278783794176135
+    second: Boss_Samurai_MeleeAttack_158
+  - first:
+      213: -9111289266333748090
+    second: Boss_Samurai_MeleeAttack_159
+  - first:
+      213: -7584622980421712896
+    second: Boss_Samurai_MeleeAttack_160
+  - first:
+      213: -4331543753863667789
+    second: Boss_Samurai_MeleeAttack_161
+  - first:
+      213: -5187572117709216748
+    second: Boss_Samurai_MeleeAttack_162
+  - first:
+      213: -3241478562683790638
+    second: Boss_Samurai_MeleeAttack_163
+  - first:
+      213: 7644593053618558946
+    second: Boss_Samurai_MeleeAttack_164
+  - first:
+      213: 2062416781969096606
+    second: Boss_Samurai_MeleeAttack_165
+  - first:
+      213: 7355553940042087979
+    second: Boss_Samurai_MeleeAttack_166
+  - first:
+      213: -1929186411657131775
+    second: Boss_Samurai_MeleeAttack_167
+  - first:
+      213: 3600824479836422769
+    second: Boss_Samurai_MeleeAttack_168
+  - first:
+      213: -8788621389722370989
+    second: Boss_Samurai_MeleeAttack_169
+  - first:
+      213: -4164946350395231578
+    second: Boss_Samurai_MeleeAttack_170
+  - first:
+      213: 4142992995189355502
+    second: Boss_Samurai_MeleeAttack_171
+  - first:
+      213: 7227475335226910080
+    second: Boss_Samurai_MeleeAttack_172
+  - first:
+      213: 524658794134416967
+    second: Boss_Samurai_MeleeAttack_173
+  - first:
+      213: -5610532287819723916
+    second: Boss_Samurai_MeleeAttack_174
+  - first:
+      213: -3582835074077650501
+    second: Boss_Samurai_MeleeAttack_175
+  - first:
+      213: 2423860058142183570
+    second: Boss_Samurai_MeleeAttack_176
+  - first:
+      213: -5244919873397344288
+    second: Boss_Samurai_MeleeAttack_177
+  - first:
+      213: 2112124576252037862
+    second: Boss_Samurai_MeleeAttack_178
+  - first:
+      213: 8374612414856351769
+    second: Boss_Samurai_MeleeAttack_179
+  - first:
+      213: 1870061287565382033
+    second: Boss_Samurai_MeleeAttack_180
+  - first:
+      213: 7647142897235193730
+    second: Boss_Samurai_MeleeAttack_181
+  - first:
+      213: -1765263665334750489
+    second: Boss_Samurai_MeleeAttack_182
+  - first:
+      213: 166785628221993845
+    second: Boss_Samurai_MeleeAttack_183
+  - first:
+      213: -3237917236257463431
+    second: Boss_Samurai_MeleeAttack_184
+  - first:
+      213: 5722338909193244837
+    second: Boss_Samurai_MeleeAttack_185
+  - first:
+      213: 5228534830856329629
+    second: Boss_Samurai_MeleeAttack_186
+  - first:
+      213: 6763117337049819727
+    second: Boss_Samurai_MeleeAttack_187
+  - first:
+      213: 6590538749761328964
+    second: Boss_Samurai_MeleeAttack_188
+  - first:
+      213: -485829646823178158
+    second: Boss_Samurai_MeleeAttack_189
+  - first:
+      213: 6744657232612075555
+    second: Boss_Samurai_MeleeAttack_190
+  - first:
+      213: 1278522948630179991
+    second: Boss_Samurai_MeleeAttack_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4a7c8b654694b0800000000000000
+      internalID: -5434079572155282122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb89aab0571a87e0800000000000000
+      internalID: -1762570668665631804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820b17a36a31bc60800000000000000
+      internalID: 7832105426653741703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0662c603b1eb3550800000000000000
+      internalID: 6141750675878602255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a3e6e8b21291c0800000000000000
+      internalID: -4498512492432742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff48faa65f0bd50800000000000000
+      internalID: 6751165679988440853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28580d7bf9716c60800000000000000
+      internalID: 7809657349878601775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cef141ef6093520800000000000000
+      internalID: 2682182741404937310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98917635eab1e9af0800000000000000
+      internalID: -387842082369758839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a117e0ec5656eb70800000000000000
+      internalID: 8927918268218806697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7733c86c26430a90800000000000000
+      internalID: -7348953010388387973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05546c9e7928ddf0800000000000000
+      internalID: -155328563377842931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8992632d52637670800000000000000
+      internalID: 8535273870962366863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a8a5fe921bef90800000000000000
+      internalID: -6923419528216401746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5ae7a67363fb10800000000000000
+      internalID: 2014062819639189246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990b3d94c32981f0800000000000000
+      internalID: -1042262511401104994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c37327758604db0800000000000000
+      internalID: -4809729677244023719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be79b62212d1de30800000000000000
+      internalID: 4526630075884994232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f95b4dc2e01f470800000000000000
+      internalID: 8426531963496931199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681fcc11e15bbcb90800000000000000
+      internalID: -7220478436806168186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed069989ceb0b050800000000000000
+      internalID: 5814356891741326816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5d75ddc5830ecf0800000000000000
+      internalID: -225118009866857006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04e661fa2bdab10800000000000000
+      internalID: 1994446675060342982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b273673c1fa9f000800000000000000
+      internalID: 70279804924162743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7dd696f9a11ce0800000000000000
+      internalID: -1436179929596330929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bd2314972f9e80800000000000000
+      internalID: -8169767682096385404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba7791fed54d620800000000000000
+      internalID: 2797964550009760717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cc49e9b7552880800000000000000
+      internalID: -8636400254418368935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00930894c99b16c60800000000000000
+      internalID: 7809727309736327424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63589d2c626a8ba0800000000000000
+      internalID: -6085943729676856468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d519540958f8a7e0800000000000000
+      internalID: -1753878993652083240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a03948bf5fc7960800000000000000
+      internalID: 7601220731704380009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e991e40f116b2460800000000000000
+      internalID: 7217969613645126119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_33
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9672bc77c8044e0800000000000000
+      internalID: -1999443788415145555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290db35cfad31a90800000000000000
+      internalID: -7344285790039635670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e66f421b2dc650800000000000000
+      internalID: 6254702815129037136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89696362c1551a960800000000000000
+      internalID: 7611458424621405848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_37
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26a7c47b6e50820800000000000000
+      internalID: 2883964811337163474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_38
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3709146088eda430800000000000000
+      internalID: 3795945699076015930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_39
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0270857849de31260800000000000000
+      internalID: 7067253462456076064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_40
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd9d537806a6910800000000000000
+      internalID: 1831382332319849440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_41
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc41f99d52f3a90800000000000000
+      internalID: -7332100051728806090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_42
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc61562967cce9b0800000000000000
+      internalID: -5049441827760804657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_43
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4923de164705f5950800000000000000
+      internalID: 6439954452952461972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1e0ecb02b25aa0800000000000000
+      internalID: -6173676375400112643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_45
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a65e3bca6a3fe0800000000000000
+      internalID: -1208536128838785257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_46
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b48a42650b01530800000000000000
+      internalID: 3823749967666236189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_47
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6f2d832c41df50800000000000000
+      internalID: 6904383419311942895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c7ac24940719d0800000000000000
+      internalID: -2803767208563981024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e1d0c33ce80220800000000000000
+      internalID: 2452469704125704656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588043566e4ad8a60800000000000000
+      internalID: 7677974249183905925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571fe1faf2a66d10800000000000000
+      internalID: 2118559873408898910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2c7f655983af210800000000000000
+      internalID: 1367467650920727217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263672379a38a04e0800000000000000
+      internalID: -2014653119490202782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d71e753bd2c438e0800000000000000
+      internalID: -1714531311370233900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dfd1d12bd288c00800000000000000
+      internalID: 903021968303717672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908d30cc3255eaf0800000000000000
+      internalID: -367797373684055916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f46bc4dbd38290800000000000000
+      internalID: -7889220415231036309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e399ae7d45b870800000000000000
+      internalID: 8697943461742241630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_59
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd8ae20472fc9e0800000000000000
+      internalID: -1599016186079028447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac642bd334b2810800000000000000
+      internalID: 1741559613171878633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_61
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1370f2edeac300800000000000000
+      internalID: 273292286361804338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c8c43e3c864a60800000000000000
+      internalID: 7657962415191540805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_63
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef082e691e2d4e0800000000000000
+      internalID: -1958254849791295928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_64
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670d9530cffe17c0800000000000000
+      internalID: -4098557409862285465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_65
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dc7c8ce47066a0800000000000000
+      internalID: -6458033306331195774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_66
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681beaeaef497200800000000000000
+      internalID: 178261530640062562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_67
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21c870d3c7b35d0800000000000000
+      internalID: -3081732918443502880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_68
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf4c7e4f66c7340800000000000000
+      internalID: 4862874899699793016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_69
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66640eff73d3720800000000000000
+      internalID: 2827477713177437900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_70
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798dc3eabb043ae0800000000000000
+      internalID: -1570617472731739792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_71
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71096b6403fb82ae0800000000000000
+      internalID: -1573797855700283369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cadfa047b4c41e0800000000000000
+      internalID: -2212310355173069736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b2d7a7607988a70800000000000000
+      internalID: 8829473123540478836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c5de81d4467b90800000000000000
+      internalID: -7244527283743635786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282ba3ceb9da0800800000000000000
+      internalID: 579514915420317743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be254760717d9f0800000000000000
+      internalID: -443860721783870687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921981305fb8a5480800000000000000
+      internalID: -8909655028363914967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd29447468ba830800000000000000
+      internalID: 4083505127792762743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_79
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7803e4fca00af00800000000000000
+      internalID: 1125911792328935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_80
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1c11b599276660800000000000000
+      internalID: 7378912237368122489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_81
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6f5d24f6206500800000000000000
+      internalID: 387352398128967145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_82
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911672c49b979590800000000000000
+      internalID: -7667488777354997360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_83
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204db54c5a8dc5f80800000000000000
+      internalID: -8116374221952920574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_84
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abf168a7a4684a0800000000000000
+      internalID: -6591499114513450403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_85
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b106cca0a3403740800000000000000
+      internalID: 5129674332947481013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_86
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef08ae95e354a90800000000000000
+      internalID: -7330384262568280380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_87
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f381377690463c80800000000000000
+      internalID: -8343410244668259343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_88
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbb2423210debc0800000000000000
+      internalID: -3752341664087425933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_89
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf36dc177f246b0800000000000000
+      internalID: -5313412542194516745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_90
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b17cfd49818d00800000000000000
+      internalID: 973209962529535321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_91
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73b667215fb6c70800000000000000
+      internalID: 8965528942856058834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_92
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2da0c5bccf9380800000000000000
+      internalID: -8962219652450276224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_93
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9eefba7499e5180800000000000000
+      internalID: -9124687261898708526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_94
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e732df828c8f00800000000000000
+      internalID: 1120413961527222589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_95
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721d5f3d5244e2c0800000000000000
+      internalID: -4403321567399046530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facea0a36b5c8d1e0800000000000000
+      internalID: -2172769433757750097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5a80ce0d237100800000000000000
+      internalID: 104476757742737968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f424770f97ad9f0800000000000000
+      internalID: -442907539642626263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab3f9b34a2f8f00800000000000000
+      internalID: 1121161302609476329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_100
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a994ad32877ea06b0800000000000000
+      internalID: -5329192705855960678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_101
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b4b2adf06c3660800000000000000
+      internalID: 7366869732944033035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7112eed5360ddda30800000000000000
+      internalID: 4241775549249102103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_103
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86f80dbea05a8d0800000000000000
+      internalID: -2835848382427207516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_104
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6aa52c788bd970800000000000000
+      internalID: 8780761965278162221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_105
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0039e1b6a018d0800000000000000
+      internalID: -2877616878838085052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_106
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728fdc9e90ac0a60800000000000000
+      internalID: 7641659270838059633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_107
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129e5d6cb97d1570800000000000000
+      internalID: 8439035126957904415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_108
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dae099b1ce3e6d0800000000000000
+      internalID: -2962264526603506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_109
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb0f331c6862880800000000000000
+      internalID: -8636067071078122359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_110
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f8d499e76c98920800000000000000
+      internalID: 2993141674404581144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_111
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce124185e50cd30800000000000000
+      internalID: 4449660164229950647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_112
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a0ab940b3f3650800000000000000
+      internalID: 6214750901771479286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_113
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5cc98cca8deff0800000000000000
+      internalID: -5195413467669578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_114
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c0b90f7753ab60800000000000000
+      internalID: 7756139186397168321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_115
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf42ee5d739dcd0800000000000000
+      internalID: -2532931923456229974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_116
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d04a2d34dd3199b0800000000000000
+      internalID: -5075207323301297967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_117
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449eaa3b89cf4c430800000000000000
+      internalID: 3802441718187092292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_118
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d1beb954068a40800000000000000
+      internalID: 5369984389183820226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_119
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba03658606b4ad90800000000000000
+      internalID: -7087339774450398534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251d8fb3120a5170800000000000000
+      internalID: 8167843158031144232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152985805c4941d0800000000000000
+      internalID: -3366075337761282793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a909b5ee1ec340800000000000000
+      internalID: 4885876617744329148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826056ad5329f39f0800000000000000
+      internalID: -486509474737748440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_124
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf1192a96ba16160800000000000000
+      internalID: 7017078164607279047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_125
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510f402e5d022e520800000000000000
+      internalID: 2729780427132039189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_126
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c442aec0761f6b10800000000000000
+      internalID: 1976823435197826243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeadc6b28606c220800000000000000
+      internalID: 2505697401160707774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_128
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383fcb4b000916930800000000000000
+      internalID: 4134744265609507715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_129
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f53142ed0458540800000000000000
+      internalID: 5009481483351711540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc65cd90333c8d30800000000000000
+      internalID: 4434976016951504123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a3536c6e52def0800000000000000
+      internalID: -84901623350712238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_132
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111e2630fbf2d680800000000000000
+      internalID: -8731639718398258927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_133
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc9c82d7681bd30800000000000000
+      internalID: 4445482179304738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_134
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c5b2e62cf8ba10800000000000000
+      internalID: 1925566084643407890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_135
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd027957121469510800000000000000
+      internalID: 1555502333265649883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_136
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c249872d0dfa60800000000000000
+      internalID: 7709332600585897870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_137
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676fa20ecb5a25810800000000000000
+      internalID: 1752645435633890934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_138
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9fa05f6ddf9000800000000000000
+      internalID: 44997991461789071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_139
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2bd1a5f1922fb0800000000000000
+      internalID: -4674012979088642142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_140
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc425a71bd46670800000000000000
+      internalID: 8531184488747945281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_141
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4665ef6d1ab8de930800000000000000
+      internalID: 4174145956855305828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_142
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41e7a660813b890800000000000000
+      internalID: -7443579343277779746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_143
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a597bf2f2dfc90800000000000000
+      internalID: -7134494352694990437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ec6ffd31604ae0800000000000000
+      internalID: -1567145751418706348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e527330bec0c80800000000000000
+      internalID: -8355044809636452216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5bc1af306f0260800000000000000
+      internalID: 7065972166781263563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477e0c1b8b79aba0800000000000000
+      internalID: -6077190384758393019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8159feac481b63600800000000000000
+      internalID: 447740396868441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269958756367f2290800000000000000
+      internalID: -7912976044497987230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de07a5bf5bfd6ad0800000000000000
+      internalID: -2707231412491710762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9022cc93ae81120800000000000000
+      internalID: 2384913536651495925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c31dda0f234d60800000000000000
+      internalID: 7873188297278996883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd66176446a1e970800000000000000
+      internalID: 8782483561066687960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a21f5aaaf11ba60800000000000000
+      internalID: 7687960856687094312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291003c78c52ccbb0800000000000000
+      internalID: -4914511550360845934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_156
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474ca874ef208030800000000000000
+      internalID: 3494845969163110221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_157
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db8ea21ed773f8e0800000000000000
+      internalID: -1660852041889707051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_158
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f995f45358c9290800000000000000
+      internalID: -7882278783794176135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_159
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f85a9fa23e8180800000000000000
+      internalID: -9111289266333748090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_160
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00403b895910eb690800000000000000
+      internalID: -7584622980421712896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_161
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd4e5c7e343e3c0800000000000000
+      internalID: -4331543753863667789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_162
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a835d4aa0208b0800000000000000
+      internalID: -5187572117709216748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_163
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da503cdb64f303d0800000000000000
+      internalID: -3241478562683790638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_164
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75a5521ec071a60800000000000000
+      internalID: 7644593053618558946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_165
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7214d22d2f9c10800000000000000
+      internalID: 2062416781969096606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_166
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efe6a465d241660800000000000000
+      internalID: 7355553940042087979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_167
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098aab0e272a35e0800000000000000
+      internalID: -1929186411657131775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724e2359c2b8f130800000000000000
+      internalID: 3600824479836422769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cb230096b880680800000000000000
+      internalID: -8788621389722370989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f1247c532336c0800000000000000
+      internalID: -4164946350395231578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37139bd2ede7930800000000000000
+      internalID: 4142992995189355502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085e81b46862d4460800000000000000
+      internalID: 7227475335226910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eaaacb466f74700800000000000000
+      internalID: 524658794134416967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b45af2c926322b0800000000000000
+      internalID: -5610532287819723916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19ac89b76374ec0800000000000000
+      internalID: -3582835074077650501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29092d671e743a120800000000000000
+      internalID: 2423860058142183570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b3c6f92d4637b0800000000000000
+      internalID: -5244919873397344288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea00e09c16cf4d10800000000000000
+      internalID: 2112124576252037862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d617ee99983470800000000000000
+      internalID: 8374612414856351769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_180
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1915b8145dac3f910800000000000000
+      internalID: 1870061287565382033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_181
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fea50e2fb102a60800000000000000
+      internalID: 7647142897235193730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_182
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e271d49c068087e0800000000000000
+      internalID: -1765263665334750489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_183
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ffcb25aa805200800000000000000
+      internalID: 166785628221993845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_184
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97362c8cd6b9013d0800000000000000
+      internalID: -3237917236257463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_185
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a01cde6be4d96f40800000000000000
+      internalID: 5722338909193244837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_186
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d2f80abc7f8840800000000000000
+      internalID: 5228534830856329629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_187
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae321b26b6bdd50800000000000000
+      internalID: 6763117337049819727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_188
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44798f1231c467b50800000000000000
+      internalID: 6590538749761328964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_189
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25040cf928cf149f0800000000000000
+      internalID: -485829646823178158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_190
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ac91b406d99d50800000000000000
+      internalID: 6744657232612075555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_MeleeAttack_191
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790794e09d93eb110800000000000000
+      internalID: 1278522948630179991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
